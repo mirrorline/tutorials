@@ -1,0 +1,5 @@
+R tutorials DML
+
+Select Random number of x rows
+sample_n(x)
+sample_frac(.x)
